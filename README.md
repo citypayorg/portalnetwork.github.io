@@ -3,6 +3,11 @@ Install dependencies:
 ```
 npm install
 ```
+---------------------- err
+sudo apt update
+sudo apt install -y build-essential gcc make libpng-dev
+------------------- re ok 
+
 
 development:
 ```
@@ -13,3 +18,6 @@ deployment:
 ```
 npm run deploy
 ```
+
+
+
