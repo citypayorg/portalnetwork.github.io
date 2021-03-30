@@ -1,13 +1,17 @@
 ### Getting started
 Install dependencies:
-```
-npm install
-```
+
 ---------------------- err
 sudo apt update
 sudo apt install -y build-essential gcc make libpng-dev
 ------------------- re ok 
 
+```
+npm install
+```
+----------------------
+npm audit fix
+----------------------
 
 development:
 ```
@@ -20,4 +24,5 @@ npm run deploy
 ```
 
 
-
+find org new ~
+https://github.com/citypayorg/ensdomains-v2
